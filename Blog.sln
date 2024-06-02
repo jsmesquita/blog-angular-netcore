@@ -21,6 +21,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.API", "src\Blog.API\Bl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog.Domain.Infrastructure", "src\Blog.Domain.Infrastructure\Blog.Domain.Infrastructure.csproj", "{C147E9FD-4302-4A0A-A99D-D63757B0E87D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "requests", "requests", "{A45786C5-E774-4913-B8A2-61E93D968B89}"
+	ProjectSection(SolutionItems) = preProject
+		requests\http-client.env.json = requests\http-client.env.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Posts", "Posts", "{00EEAF81-5C6C-48B4-ACDA-98C92C6C44D8}"
+	ProjectSection(SolutionItems) = preProject
+		requests\Posts.POST.http = requests\Posts.POST.http
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +72,7 @@ Global
 		{B9177173-8611-450E-AAB4-6456408D370A} = {93D01B20-03F8-4014-9567-BD0326BDDAD5}
 		{856023F3-F8DB-4F67-B5BD-3F18CE622DE9} = {0DE38DDA-934D-4CCA-9627-5B72DFE2427E}
 		{C147E9FD-4302-4A0A-A99D-D63757B0E87D} = {0DE38DDA-934D-4CCA-9627-5B72DFE2427E}
+		{00EEAF81-5C6C-48B4-ACDA-98C92C6C44D8} = {A45786C5-E774-4913-B8A2-61E93D968B89}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2A4FCC9B-5DB2-4A7F-BA09-4EB219FADADE}

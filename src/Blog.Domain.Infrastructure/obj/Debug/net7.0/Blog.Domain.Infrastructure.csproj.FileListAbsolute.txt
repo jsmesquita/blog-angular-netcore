@@ -10,7 +10,8 @@ C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blo
 C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.AssemblyInfoInputs.cache
 C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.AssemblyInfo.cs
 C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.csproj.CoreCompileInputs.cache
-C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.csproj.CopyComplete
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.sourcelink.json
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Dom.828FA283.Up2Date
 C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.dll
 C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\refint\Blog.Domain.Infrastructure.dll
 C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.pdb

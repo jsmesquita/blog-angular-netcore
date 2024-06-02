@@ -12,7 +12,8 @@ C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.D
 C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.AssemblyInfoInputs.cache
 C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.AssemblyInfo.cs
 C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.csproj.CoreCompileInputs.cache
-C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.csproj.CopyComplete
+C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.sourcelink.json
+C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Dom.7D5C00E6.Up2Date
 C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.dll
 C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\refint\Blog.Domain.Application.dll
 C:\work\blog-angular-netcore\src\Blog.Domain.Application\obj\Debug\net7.0\Blog.Domain.Application.pdb
