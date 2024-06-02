@@ -1,0 +1,17 @@
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\Blog.Domain.Infrastructure.deps.json
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\Blog.Domain.Infrastructure.dll
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\Blog.Domain.Infrastructure.pdb
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\Blog.Domain.Domain.dll
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\BuildingBlocks.Domain.dll
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\Blog.Domain.Domain.pdb
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\bin\Debug\net7.0\BuildingBlocks.Domain.pdb
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.csproj.AssemblyReference.cache
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.AssemblyInfoInputs.cache
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.AssemblyInfo.cs
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.csproj.CoreCompileInputs.cache
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.csproj.CopyComplete
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.dll
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\refint\Blog.Domain.Infrastructure.dll
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\Blog.Domain.Infrastructure.pdb
+C:\work\blog-angular-netcore\src\Blog.Domain.Infrastructure\obj\Debug\net7.0\ref\Blog.Domain.Infrastructure.dll
