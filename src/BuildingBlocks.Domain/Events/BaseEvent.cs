@@ -1,5 +1,7 @@
-﻿namespace BuildingBlocks.Domain.Events;
+﻿using MediatR;
 
-public abstract class BaseEvent
+namespace BuildingBlocks.Domain.Events;
+
+public abstract record BaseEvent : INotification
 {
 }

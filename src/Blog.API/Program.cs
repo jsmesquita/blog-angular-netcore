@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Identity;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IPostRepository, PostRepository>();
+builder.Services.AddScoped<PostRepository, PostRepository>();
 
 builder.Services.AddMediatR(config =>
 {
